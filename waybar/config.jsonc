@@ -79,8 +79,8 @@
   },
   "clock": {
     "timezone": "America/New_York",
-    "tooltip-format": "{:%Y-%m-%d (%Z)}",
-    "format-alt": "{:%Y-%m-%d (%Z)}" ,
+	 "format": "{:%I:%M %p (%m/%d/%y)}",
+	 "tooltip": "{:%A, %B %d, %Y}"
   },
   "cpu": {
     "format": "{usage}% ",
